@@ -1,23 +1,30 @@
-Hi there, I'm Tejaswini Chavan 👋
-I'm a software engineer who loves to learn new things and solve problems and passionate about full-stack development, Salesforce, AWS.
+# Hi there, I'm Tejaswini Chavan 👋
 
-**🔧 Technologies & Tools**
+I'm an AI Engineer and full-stack developer passionate about building agentic systems, 
+memory-threaded AI architectures, and scalable backend infrastructure.
 
-<p>Programming Languages: Java, Python, JavaScript, C#, C++, Apex<br>
-Web Technologies: HTML, CSS, React.js, jQuery, TypeScript, HTTP, XML, Swing, Visualforce, LWC, SOAP APIs<br>
-Frameworks and Tools: Salesforce DX, Git, MVC, Kubernetes, Jira, Postman, Maven, Jenkins Spring Boot, Spring Framework,
-REST APIs, Marketo, Eloqua, Copado, Changeset, ANT, Outreach, ZoomInfo, Opus, Workbench<br>
-Cloud Technologies: AWS (EC2, S3, ELB, Lambda, CloudFormation), Salesforce (Sales, Service, Financial Service)<br>
-Database: MongoDB, MySQL, Oracle, PostgreSQL, SOQL, SOSL<br>
-  
-🌱 I’m currently learning AI/ML and looking to collaborate on AI and software engineering projects.</p>
+[![Headstarter Rank](https://img.shields.io/badge/Headstarter%20Rank-Top%2017%25%20%7C%2079%2F100-blue?style=for-the-badge)](https://www.headstarter.co/rank/share/cmnnnmp94000nl4048uy3g66g)
 
+## 🔧 Technologies & Tools
 
-**📝 Latest Blog Posts**
-<p>Shopping Cart Abandonment: Challenges and Solutions for CVS- Online Drugstore :<br>
-https://medium.com/@tejaswinitchavan16/shopping-cart-abandonment-challenges-and-solutions-for-cvs-online-drugstore-ad31b72dbf57</p>
+**Programming Languages:** Java, Python, JavaScript, C#, C++, Apex  
+**Web Technologies:** HTML, CSS, React.js, TypeScript, jQuery, Visualforce, LWC, SOAP/REST APIs  
+**Frameworks & Tools:** Spring Boot, Spring Framework, FastAPI, LangChain, Git, Kubernetes, Docker, Jira, Postman, Maven, Jenkins, Salesforce DX, Copado  
+**AI/ML:** Multi-agent systems, semantic search, pgvector, MiniLM-L6-v2, DBSCAN, spaCy, BERT, FAISS  
+**Cloud:** AWS (EC2, S3, Lambda, ELB, CloudFormation, App Runner), Salesforce (Sales, Service, Financial Services)  
+**Databases:** PostgreSQL, MongoDB, MySQL, Oracle, Supabase, SOQL, SOSL  
 
-**📫 How to reach me**
-<p><b>LinkedIn:</b> https://www.linkedin.com/in/tejaswini-chavan/<br>
-<b>University Email:</b> chavan.t@northeastern.edu<br>
-<b>Personal Email:</b> tejaswinitchavan16@gmail.com</p>
+## 🚀 What I'm Working On
+
+- Building memory-threaded agentic AI systems at a stealth cognitive wearable startup (Node)
+- MS in Information Systems at Northeastern University (graduating May 2026)
+
+## 📝 Latest Blog Posts
+
+- [Shopping Cart Abandonment: Challenges and Solutions for CVS](https://medium.com/@tejaswinitchavan16/shopping-cart-abandonment-challenges-and-solutions-for-cvs-online-drugstore-ad31b72dbf57)
+
+## 📫 How to reach me
+
+- **LinkedIn:** [tejaswini-chavan](https://www.linkedin.com/in/tejaswini-chavan/)
+- **University Email:** chavan.t@northeastern.edu
+- **Email:** tejaswinitchavan16@gmail.com
