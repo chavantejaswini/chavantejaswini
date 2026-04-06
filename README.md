@@ -5,6 +5,8 @@ memory-threaded AI architectures, and scalable backend infrastructure.
 
 [![Headstarter Rank](https://img.shields.io/badge/Headstarter%20Rank-Top%2017%25%20%7C%2079%2F100-blue?style=for-the-badge)](https://www.headstarter.co/rank/share/cmnnnmp94000nl4048uy3g66g)
 
+**[→Check out my full score](https://www.headstarter.co/rank/share/cmnnnmp94000nl4048uy3g66g)**
+
 > 🏅 Ranked **Top 17% of engineers** on Headstarter — scored across Technical (82), Experience (80), Education (78), Projects (76), and Activity (70). Recognized as an **Agentic Systems Builder** with a Tier A: Strong rating.
 
 ## 🔧 Technologies & Tools
